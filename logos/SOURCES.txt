@@ -1,0 +1,7 @@
+Technology, Google and Fortinet icons: https://github.com/simple-icons/simple-icons (see LICENSE.md).
+IBM: https://commons.wikimedia.org/wiki/File:IBM_logo.svg
+Sophos: https://commons.wikimedia.org/wiki/File:Sophos_logo.svg
+Logos identify technologies and credential issuers; they do not imply endorsement.
+Additional technology icons: https://github.com/devicons/devicon (C#, SQL Server, Git); https://github.com/ionic-team/ionicons (Tableau).
+Excel: https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2025–present).svg
+Power BI: https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg
